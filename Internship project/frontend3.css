@@ -1,0 +1,31 @@
+body{
+    background-color: thistle;
+    border: 2px solid black;
+    margin: 100px 100px 100px 100px;
+}
+.info{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 1px 1px;
+}
+.main_div{
+    background-color: cyan;
+    padding: 45px 45px 45px 45px ;
+    box-shadow: 5px 5px;
+}
+.info{
+    text-align: center;
+}
+label{
+    width: 100px;
+    display:inline-block;
+}
+.next{
+    text-align: center;
+}
+button{
+    color: red;
+}
+p{
+    float: right;
+}
